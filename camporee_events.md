@@ -1,56 +1,80 @@
-2013 Camporee Events
+# 2013 Camporee Events
 
-First Aid
+## First Aid
+	
 	Object in the eye
+	
 	Animal bite
-		Cat, Dog, Warm blooded animal
-		Non-venomous snakebite
-		Venomous snakebite
+
+		* Cat, Dog, Warm blooded animal
+		*  Non-venomous snakebite
+		* Venomous snakebite
+
 	Puncture Wound
-		Fishhook
+
+		* Fishhook
 	Burns
-		Scald
-		Second Degree
-		Third Degree
+
+		* Scald
+		* Second Degree
+		* Third Degree
+
 	Heat Exhaustion
+
 	Shock
+
 	Heatstroke
+
 	Dehydration
+
 	Hypothermia
+
 	Hyperventilation
+
 	Hurry cases
-		Quick Assessment
+
+		* Quick Assessment
+
 	Stopped Breathing
+
 	Serious Bleeding
+
 	Ingested Poisoning
+
 	Heart Attack and CPR
 
-Knots
+## Knots
 	Standard:
-		Square Knot
-		Two Half Hitches
-		Taut Line Hitch
-		Clove Hitch
-		Bowline
-		Timber Hitch
+
+		* Square Knot
+		* Two Half Hitches
+		* Taut Line Hitch
+		* Clove Hitch
+		* Bowline
+		* Timber Hitch
+
 	Extra Credit:
-		Sheet Bend
-		Sheep Shank
-		Mooring Hitch
 
-Height and Distance Estimation
+		* Sheet Bend
+		* Sheep Shank
+		* Mooring Hitch
 
-Obstacle Course
+## Height and Distance Estimation
 
-Fire Building
+## Obstacle Course
 
-Archery
+## Fire Building
 
-Pioneering
+## Archery
+
+## Pioneering
+
 	Lashings:
-		Square
-		Diagonal
-		Round
-		Tripod
+
+		* Square
+		* Diagonal
+		* Round
+		* Tripod
+
 	Minimum 25 poles and 20 lashings
 
