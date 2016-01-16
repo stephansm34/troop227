@@ -2,62 +2,63 @@
 
 ## First Aid
 	
-	Object in the eye
+Object in the eye
 	
-	Animal bite
+Animal bite
 
-		* Cat, Dog, Warm blooded animal
-		*  Non-venomous snakebite
-		* Venomous snakebite
+	* Cat, Dog, Warm blooded animal
+	*  Non-venomous snakebite
+	* Venomous snakebite
 
-	Puncture Wound
+Puncture Wound
 
-		* Fishhook
-	Burns
+	* Fishhook
+Burns
 
-		* Scald
-		* Second Degree
-		* Third Degree
+	* Scald
+	* Second Degree
+	* Third Degree
 
-	Heat Exhaustion
+Heat Exhaustion
 
-	Shock
+Shock
 
-	Heatstroke
+Heatstroke
 
-	Dehydration
+Dehydration
 
-	Hypothermia
+Hypothermia
 
-	Hyperventilation
+Hyperventilation
 
-	Hurry cases
+Hurry cases
 
-		* Quick Assessment
+	* Quick Assessment
 
-	Stopped Breathing
+Stopped Breathing
 
-	Serious Bleeding
+Serious Bleeding
 
-	Ingested Poisoning
+Ingested Poisoning
 
-	Heart Attack and CPR
+Heart Attack and CPR
 
 ## Knots
-	Standard:
 
-		* Square Knot
-		* Two Half Hitches
-		* Taut Line Hitch
-		* Clove Hitch
-		* Bowline
-		* Timber Hitch
+Standard:
 
-	Extra Credit:
+	* Square Knot
+	* Two Half Hitches
+	* Taut Line Hitch
+	* Clove Hitch
+	* Bowline
+	* Timber Hitch
 
-		* Sheet Bend
-		* Sheep Shank
-		* Mooring Hitch
+Extra Credit:
+
+	* Sheet Bend
+	* Sheep Shank
+	* Mooring Hitch
 
 ## Height and Distance Estimation
 
@@ -69,12 +70,12 @@
 
 ## Pioneering
 
-	Lashings:
+Lashings:
 
-		* Square
-		* Diagonal
-		* Round
-		* Tripod
+	* Square
+	* Diagonal
+	* Round
+	* Tripod
 
-	Minimum 25 poles and 20 lashings
+Minimum 25 poles and 20 lashings
 
