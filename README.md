@@ -1,4 +1,4 @@
-{% include nav.html %}
+{% include nav.md %}
 
 ## Welcome to GitHub Pages
 
