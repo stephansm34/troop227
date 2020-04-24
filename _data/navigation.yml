@@ -1,4 +1,8 @@
 - name: Home
   link: /
 - name: About
-  link: /about.html
+  link: /orientation_short.html
+- name: Committee
+  link: /committee.html
+- name: More Info
+  link: /orientation_long.html
