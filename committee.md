@@ -1,19 +1,22 @@
-# Troop 227 Committee
+---
+layout: page
+title: Committee
+permalink: /committee/
+---
+# Troop 227 Committee (Jan 2016)
 
-January 2016
-
-## Scoutmaster	
+## Scoutmaster
 
 Bill Hencke
 
 ## Assistant Scoutmasters
 
-Bryan Betz (Retiring 2016)
-Greg Smith (Retiring 2016)
-Mark Pauly
-DJ Clarke
-Dan Minear
-Mike Schuster
+* Bryan Betz (Retiring 2016)
+* Greg Smith (Retiring 2016)
+* Mark Pauly
+* DJ Clarke
+* Dan Minear
+* Mike Schuster
 
 ## Committee Chair
 
@@ -31,9 +34,10 @@ Rose Clarke
 
 Greg Smith (Retiring, need replacement in 2016)
 
-## Advancement Coordinator
+## Advancement Coordinators
 
-Dani DeGrood/Arla Cleghorn
+* Dani DeGrood
+* Arla Cleghorn
 
 ## Training Coordinator
 
@@ -41,7 +45,8 @@ Wally McClure
 
 ## Equipment Coordinator
 
-Mark Pauly / Mike Schuster
+* Mark Pauly
+* Mike Schuster
 
 ## New Scout Parent Unit Coordinator
 
@@ -59,7 +64,7 @@ Dani DeGrood
 
 Juli VanNattan  (Retiring, need replacement in 2016)
 
-## Uniform Bank & Class B T-Shirt Coordinator  
+## Uniform Bank & Class B T-Shirt Coordinator
 
 Tricia Cook 
 
