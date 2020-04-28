@@ -27,6 +27,10 @@ url: "https://handbook.troop227.org" # the base hostname & protocol for your sit
 #twitter_username: jekyllrb
 github_username:  dminear
 
+collections:
+  sections:
+    output: true
+
 # Build settings
 theme: minima
 plugins:
